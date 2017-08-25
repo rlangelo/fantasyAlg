@@ -24,9 +24,14 @@ meiasConfirmados = jogadoresConfirmados[4]
 atacantesConfirmados = jogadoresConfirmados[5]
 tecnicos = jogadoresConfirmados[6]
 
-print goleirosConfirmados
-print lateraisConfirmados
-print zagueirosConfirmados
-print meiasConfirmados
-print atacantesConfirmados
-print tecnicos
+#print goleirosConfirmados
+#print lateraisConfirmados
+#print zagueirosConfirmados
+#print meiasConfirmados
+#print atacantesConfirmados
+#print tecnicos
+#print getPosicao("303")
+#print getCasaOuFora(303)
+aproveitamento = getAproveitamento(292)
+print getAproveitamentoMult(292)
+print aproveitamento
